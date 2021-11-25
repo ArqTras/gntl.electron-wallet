@@ -1,6 +1,6 @@
 {
   "name": "gntl-electron-wallet",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "daemonVersion": "1.0.1",
   "description": "Modern GUI interface for Gntl Currency",
   "productName": "Gntl Electron Wallet",
